@@ -1,7 +1,5 @@
 # Software Engineer Affiliate Program Hub
 
-## Intro
-
 Welcome to the Software Engineer's Affiliate Program Hub! This repository serves as a comprehensive resource for software engineers interested in exploring and promoting affiliate programs related to their field. Whether you're a seasoned developer or just starting out, this hub provides valuable insights, tools, and a community to help you maximize your earning potential through affiliate marketing. You can say this repository is comprehensive guide of affiliate program for software engineer.
 
 ## Key Features
@@ -135,24 +133,225 @@ Note: Some of these interview preparation does not offer clear way to join their
 
 1. **[Treehouse](https://teamtreehouse.com/)**: Treehouse provides online courses on web development, programming, and other software engineering topics. They have an affiliate program that allows you to earn commissions for each referred user who becomes a paying member. To join Treehouse affiliate program, you can access this page https://blog.teamtreehouse.com/treehouse-affiliate-program, however, it seems their affiliate program is now changed because the link included in mentioned page is not working anymore
 
+1. **Teachable**
+
 
 Note: Joining online course affiliate program has clearer way than interview preparation.
 
-### Tools For Software Engineer Affiliate Program
-- Jira
-- Jetbrains
-- Trello
-- Monday.com
-- ClickUp
+### Project Management Tools Affiliate Program
+
+1. Jira: Jira is a popular project management and issue tracking tool used by software teams. It helps teams plan, track, and release software more efficiently. Atlassian, the company behind Jira, offers an affiliate program called the Atlassian Partner Program. This program allows affiliates to earn commissions by referring customers to Jira and other Atlassian products. Check https://www.atlassian.com/partners/join for further info.
+
+1. JetBrains: JetBrains provides a suite of powerful integrated development environments (IDEs) and developer tools for various programming languages. JetBrains offers an affiliate program where you can earn commissions by promoting their products, including IntelliJ IDEA, PyCharm, WebStorm, and more. Affiliates can generate revenue by referring customers to purchase JetBrains products through their affiliate links. Check https://www.jetbrains.com/company/partners/become_a_partner/ for further info.
+
+1. Trello: Trello is a popular team collaboration and project management tool that uses a flexible Kanban-style board. While Trello does not have an official affiliate program, it is a part of the Atlassian suite of products. As an Atlassian partner, you can join their affiliate program and earn commissions by referring customers to Trello along with other Atlassian tools. Check https://www.atlassian.com/partners/join for further info. As you may know, Trello is acquired by Attlasian.
+
+1. Monday.com: Monday.com is a visually appealing and intuitive project management platform that enables teams to collaborate and manage tasks efficiently. Monday.com offers an affiliate program that allows you to earn commissions by referring customers to their platform. Affiliates can share their unique referral links, and when a referred user signs up and becomes a paying customer, the affiliate earns a commission. Check https://monday.com/affiliate-program for further info.
+
+1. ClickUp: ClickUp is a feature-rich project management and productivity platform designed to streamline team workflows. ClickUp has an affiliate program called the ClickUp Ambassador Program. Affiliates can earn commissions by referring customers to ClickUp and helping them optimize their productivity. The program provides tools and resources to support affiliates in their promotional efforts. Check https://clickup.com/partners/affiliates for further info.
+
+1. Asana: Asana is a widely used project management and collaboration tool that helps teams organize and track their work. Asana offers an affiliate program where affiliates can earn commissions by referring customers to sign up for Asana's paid plans. Affiliates receive a commission for each referral that leads to a new paying customer. Check https://asana.com/partners for further info.
+
+1. Todoist: Todoist is a popular task management and to-do list app that helps individuals and teams stay organized. While Todoist does not have an official affiliate program, they have a referral program where users can refer friends and earn premium features as rewards. Referring users receive perks like extended premium trials or free premium subscriptions for their own use. Check https://todoist.com/help/articles/todoist-partner-programs for further info.
 
 ### Cloud Service Provider / Hosting Affiliate Program
-- AWS
-- Digital Ocean
+
+1. AWS (Amazon Web Services): AWS is a comprehensive cloud computing platform that offers a wide range of services, including computing power, storage, databases, and more. AWS has an affiliate program called the AWS Affiliate Program. Affiliates can earn referral fees by promoting AWS services and generating new customer sign-ups. The program provides tools, resources, and commissions based on the customer's usage of AWS services.
+
+1. DigitalOcean: DigitalOcean is a cloud infrastructure provider known for its simplicity and developer-friendly platform. DigitalOcean has an affiliate program that allows affiliates to earn commission for each referred customer who signs up and becomes a paying user. Affiliates can promote DigitalOcean using their referral links and banners provided by the program.
+
+1. Bluehost: Bluehost is a popular web hosting provider that offers reliable hosting solutions for websites. Bluehost has an affiliate program where affiliates can earn commissions by referring customers to sign up for Bluehost hosting plans. Affiliates receive a commission for each referred customer who purchases a hosting plan using their affiliate link.
+
+1. SiteGround: SiteGround is a web hosting company known for its speed, security, and excellent customer support. SiteGround has an affiliate program that allows affiliates to earn commissions by referring customers to purchase SiteGround hosting plans. Affiliates receive a commission for each successful referral, and they provide various marketing materials to assist affiliates in their promotional efforts.
+
+1. Cloudflare: Cloudflare is a popular content delivery network (CDN) and security services provider that helps optimize website performance and protect against online threats. While Cloudflare does not have an official affiliate program, they have a referral program called the Cloudflare Partners Program. Referral partners can earn commissions by referring customers to Cloudflare's paid plans, such as the Cloudflare Pro or Business plans.
+
+1. HostGator: HostGator is a web hosting company that also provides domain registration services. HostGator has an affiliate program called the HostGator Affiliate Program. Affiliates can earn commissions by referring customers to sign up for HostGator hosting plans and domain registrations.
+
+1. DreamHost: DreamHost is a web hosting and domain name registrar. They have an affiliate program called the DreamHost Affiliate Program. Affiliates can earn commissions by referring customers to sign up for DreamHost hosting plans and domain registrations.
+
+
+
 
 ### Marketplace For Software Engineer Affiliate Program
-- Envato
-- Codester
+
+1. Envato: Envato is a marketplace for digital assets, including themes, templates, graphics, audio, and more. Envato has an affiliate program called the Envato Market Affiliate Program. Affiliates can earn commissions by referring customers to purchase items from Envato Market, which includes popular platforms like ThemeForest, CodeCanyon, GraphicRiver, and more. The program provides referral links and banners to help affiliates promote Envato's products.
+
+1. Codester: Codester is a marketplace for ready-to-use code, scripts, themes, plugins, and other digital products. Codester offers an affiliate program that allows affiliates to earn commissions by referring customers to purchase products from Codester. Affiliates receive a commission for each sale made through their referral links or banners.
+
+1. recuweb: E-Commerce website providing Plugins, Codes and Scripts mainly for WordPress and Woocommerce. 
+
+1. Creative Market: Creative Market is a platform for creative assets, including fonts, illustrations, templates, and more. Creative Market has an affiliate program where affiliates can earn a commission for each new customer they refer who makes a purchase on Creative Market. Affiliates can use their referral links and banners provided by the program to promote Creative Market's products.
+
+1. Unity: Unity is a widely-used game development platform that enables developers to create interactive and immersive experiences. Unity does not have a specific affiliate program for their platform. However, Unity offers partnerships and collaborations through their Unity Connect program, where developers can showcase their work and connect with potential clients or employers.
+
+1. Unreal Engine Marketplace: Unreal Engine Marketplace is a platform for game development assets and resources designed for use with the Unreal Engine game engine. Unreal Engine Marketplace does not currently have an official affiliate program. However, Unreal Engine provides various partnership and collaboration opportunities through their Unreal Engine Community program, where developers can share and monetize their creations.
+
 
 ### Freelancing Website Affiliate Program
+1. Fiverr: Fiverr is a popular online marketplace that offers a wide range of digital services provided by freelancers. Fiverr has an affiliate program called the Fiverr Affiliates Program. Affiliates can earn commissions by referring new buyers or sellers to the platform. When a referred user signs up and completes a transaction on Fiverr, the affiliate earns a commission based on the transaction value.
 
-### Domain registrar
+1. CodeClerks: CodeClerks is a marketplace that specializes in digital services and products related to coding, web development, and programming. While CodeClerks does not have a specific affiliate program, it is a part of the SEOClerks marketplace. SEOClerks has an affiliate program where affiliates can earn commissions by referring customers to purchase services or products from any of the marketplaces within the SEOClerks network, including CodeClerks.
+
+1. Upwork: Upwork is a popular freelancing platform that connects businesses with freelancers in various fields. While Upwork does not have a direct affiliate program, they have a Referral Program where you can earn money by referring clients or freelancers to the platform.
+
+1. Freelancer.com: Freelancer.com is a global freelancing platform where employers can hire freelancers for various projects. Freelancer.com offers an affiliate program called the Freelancer Affiliate Program, allowing affiliates to earn commissions by referring new users who sign up and complete projects on the platform.
+
+1. Guru: Guru is a freelance marketplace that connects businesses with freelancers across different industries. Guru offers an affiliate program called the Guru Affiliate Program, allowing affiliates to earn a commission for each new user they refer who signs up and completes projects on the platform.
+
+1. PeoplePerHour: PeoplePerHour is a freelance platform where businesses can hire skilled freelancers for various projects. PeoplePerHour has an affiliate program that allows affiliates to earn commissions by referring new clients or freelancers to the platform.
+
+1. Toptal: Toptal is a platform that connects businesses with top freelancers in fields like software development, design, and finance. While Toptal does not have a traditional affiliate program, they have a Talent Scout Program where you can earn a referral bonus by referring freelancers who get accepted into the Toptal network.
+
+### Domain registrar Affiliate Program
+1. GoDaddy: GoDaddy is one of the largest domain name registrars and web hosting companies. They have an affiliate program called the GoDaddy Affiliate Program. Affiliates can earn commissions by referring customers to purchase domain names, hosting plans, and other products offered by GoDaddy.
+
+1. Namecheap: Namecheap is a popular domain name registrar known for its affordable pricing and user-friendly interface. Namecheap offers an affiliate program called the Namecheap Affiliate Program. Affiliates can earn commissions by referring customers to purchase domain names, hosting, SSL certificates, and other services provided by Namecheap.
+
+### Low Code / No Code Platform Affiliate Program
+1. Andromo: Andromo is a mobile app development platform that allows users to create and monetize their own Android apps without any coding. While I couldn't find specific information about an affiliate program for Andromo, they offer various monetization features within their platform, such as displaying ads and integrating in-app purchases.
+
+1. Unbounce: Unbounce is a landing page builder that enables users to create custom landing pages for marketing campaigns. Unbounce has an affiliate program called the Unbounce Partner Program. Affiliates can earn recurring commissions by referring customers to sign up for Unbounce's subscription plans. The program provides affiliates with tracking links, banners, and access to performance metrics.
+
+1. Instapage: Instapage is a landing page platform that allows users to build and optimize landing pages for marketing purposes. Instapage has an affiliate program called the Instapage Affiliate Program. Affiliates can earn commissions by referring customers to sign up for Instapage's subscription plans. The program offers competitive commission rates and provides affiliates with promotional materials and tracking tools.
+
+1. Leadpages: Leadpages is a landing page and lead generation platform that helps users create high-converting landing pages and capture leads. Leadpages has an affiliate program called the Leadpages Partner Program. Affiliates can earn recurring commissions by referring customers to sign up for Leadpages' subscription plans. The program offers competitive commission rates, real-time tracking, and provides affiliates with marketing resources.
+
+### AI Tools Affiliate Program
+Let me know if there is any AI Tools for software engineer that can be added to this list.
+
+### Mailing Tools Affiliate Program
+1. Mailchimp: Mailchimp is an all-in-one marketing platform that provides email marketing, automation, and other digital marketing services. Mailchimp has an affiliate program called the Mailchimp Affiliate Program. Affiliates can earn commissions by referring new customers to sign up for Mailchimp's paid plans. The program offers competitive commission rates and provides affiliates with tracking links and promotional materials.
+
+1. Sendgrid: Sendgrid is a cloud-based email delivery and management platform that helps businesses send transactional and marketing emails. While Sendgrid does not have a specific affiliate program, they offer partnerships and integrations with various platforms, allowing businesses to refer customers to use Sendgrid as their email delivery service.
+
+1. Convertkit: Convertkit is an email marketing platform that caters to content creators, bloggers, and online businesses. Convertkit has an affiliate program called the Convertkit Affiliate Program. Affiliates can earn recurring commissions by referring customers to sign up for Convertkit's paid plans. The program provides affiliates with a unique referral link, tracking, and promotional resources.
+
+1. SendInBlue: SendInBlue is an all-in-one marketing platform that offers email marketing, SMS messaging, and marketing automation services. SendInBlue has an affiliate program called the SendInBlue Affiliate Program. Affiliates can earn commissions by referring new customers to sign up for SendInBlue's paid plans. The program provides affiliates with tracking links, marketing assets, and commission tracking.
+
+1. Constant Contact: Constant Contact is an email marketing and online marketing platform that helps businesses create and manage email campaigns. Constant Contact has an affiliate program called the Constant Contact Partner Program. Affiliates can earn commissions by referring customers to sign up for Constant Contact's paid plans. The program offers competitive commission rates, tracking tools, and marketing resources.
+
+1. MailerLite: MailerLite is an email marketing tool that focuses on simplicity and ease of use. MailerLite has an affiliate program called the MailerLite Affiliate Program. Affiliates can earn recurring commissions by referring customers to sign up for MailerLite's paid plans. The program offers competitive commission rates, tracking, and affiliate support.
+
+1. ActiveCampaign: ActiveCampaign is a customer experience automation platform that offers email marketing, marketing automation, and CRM features. ActiveCampaign has an affiliate program called the ActiveCampaign Affiliate Program. Affiliates can earn recurring commissions by referring customers to sign up for ActiveCampaign's paid plans. The program provides affiliates with tracking, promotional materials, and dedicated support.
+
+1. GetResponse: GetResponse is an email marketing and marketing automation platform that helps businesses create and manage their email campaigns. GetResponse has an affiliate program called the GetResponse Affiliate Program. Affiliates can earn commissions by referring customers to sign up for GetResponse's paid plans. The program offers competitive commission rates, tracking, and marketing resources.
+
+
+### Digital Marketing Tools
+1. SEMrush: SEMrush is an all-in-one digital marketing tool that provides solutions for SEO, PPC advertising, content marketing, social media, and more. SEMrush has an affiliate program called the SEMrush Affiliate Program. Affiliates can earn commissions by referring customers to sign up for SEMrush's subscription plans. The program offers competitive commission rates, promotional materials, and affiliate support.
+
+1. BuzzSumo: BuzzSumo is a content research and discovery tool that helps users find popular content and influencers in their industry. While BuzzSumo does not have a specific affiliate program, they offer a partnership program called the BuzzSumo Agency Partner Program. Partners can earn revenue by referring clients to BuzzSumo and receiving a percentage of the generated revenue.
+
+1. Hootsuite: Hootsuite is a social media management platform that allows users to manage and schedule their social media content across various networks. Hootsuite has an affiliate program called the Hootsuite Affiliate Program. Affiliates can earn commissions by referring customers to sign up for Hootsuite's paid plans. The program provides affiliates with tracking links, banners, and commission tracking.
+
+
+### VPN Affiliate Program
+1. TunnelBear: TunnelBear is a VPN (Virtual Private Network) service that provides secure and private internet browsing. While specific details about an affiliate program for TunnelBear are not readily available, they offer a referral program called "Grrr! Affiliates." Users can refer others to sign up for TunnelBear and earn free data as a reward for successful referrals.
+
+1. ExpressVPN: ExpressVPN is a popular VPN service that offers secure and anonymous browsing, along with access to geo-restricted content. ExpressVPN has an affiliate program called the ExpressVPN Affiliate Program. Affiliates can earn commissions by referring customers to sign up for ExpressVPN's subscription plans. The program offers competitive commission rates, dedicated affiliate support, and real-time reporting.
+
+1. ProtonVPN: ProtonVPN is a VPN service developed by the creators of ProtonMail, providing secure and private internet connections. While specific details about an affiliate program for ProtonVPN are not readily available, they offer a referral program called "Proton Affiliates." Users can refer others to sign up for ProtonVPN and earn free VPN credits as a reward.
+
+1. NordVPN: NordVPN is a well-known VPN service that offers secure and private internet access, with a wide range of server locations. NordVPN has an affiliate program called the NordVPN Affiliate Program. Affiliates can earn commissions by referring customers to sign up for NordVPN's subscription plans. The program offers competitive commission rates, marketing materials, and dedicated affiliate support.
+
+
+### Password Manager Affiliate Program
+1. LastPass: LastPass is a password management tool that securely stores and autofills passwords across various devices and platforms. LastPass has an affiliate program called the LastPass Affiliate Program. Affiliates can earn commissions by referring customers to sign up for LastPass's premium plans. The program offers competitive commission rates, affiliate tracking, and promotional resources.
+
+1. NordPass: NordPass is a password manager developed by NordVPN, providing secure password storage and management. While specific details about an affiliate program for NordPass are not readily available, NordVPN, the parent company, has an affiliate program. Affiliates can earn commissions by referring customers to sign up for NordVPN's subscription plans, and there may be opportunities to promote NordPass as part of the program.
+
+1. Dashlane: Dashlane is a password manager that helps users create and manage secure passwords for various online accounts. While specific details about an affiliate program for Dashlane are not readily available, they offer a referral program called "Refer-a-Friend." Users can refer others to sign up for Dashlane and earn free months of Dashlane Premium as a reward for successful referrals.
+
+1. 1Password: 1Password is a password manager that allows users to securely store and manage their passwords and other sensitive information. 1Password has an affiliate program called the 1Password Affiliate Program. Affiliates can earn commissions by referring customers to sign up for 1Password's subscription plans. The program offers competitive commission rates, affiliate tracking, and marketing materials.
+
+
+### Monitoring Tools Affiliate Program
+1. Pingdom: Pingdom is a website monitoring tool that checks the availability and performance of websites and web applications. While specific details about an affiliate program for Pingdom are not readily available, they offer a partner program called "Pingdom Partner Program" that allows businesses to integrate Pingdom's services into their own offerings.
+
+1. Datadog: Datadog is a monitoring and analytics platform that provides real-time insights into the performance and health of applications, infrastructure, and logs. While specific details about an affiliate program for Datadog are not readily available, they offer a partner program called "Datadog Partner Network" that allows businesses to collaborate and integrate their solutions with Datadog.
+
+1. New Relic: New Relic is an observability platform that provides real-time monitoring and analytics for applications and infrastructure. While specific details about an affiliate program for New Relic are not readily available, they offer a partner program called "New Relic Partner Network" that allows businesses to build integrations and collaborate with New Relic.
+
+1. Loggly: Loggly is a cloud-based log management and analysis tool that helps businesses collect, analyze, and visualize their log data. While specific details about an affiliate program for Loggly are not readily available, they offer a partner program called "Loggly Partner Program" that allows businesses to integrate Loggly's services into their own offerings.
+
+1. Sentry: Sentry is an error monitoring and application performance management platform that helps developers identify and fix issues in their software. While specific details about an affiliate program for Sentry are not readily available, they offer a partner program called "Sentry Integration Partner Program" that allows businesses to integrate Sentry's services into their own offerings.
+
+
+### Analytics Tools Affiliate Program
+1. Hotjar: Hotjar is an all-in-one analytics and feedback tool that helps businesses understand user behavior on their websites. While specific details about an affiliate program for Hotjar are not readily available, they offer a partner program called "Hotjar Partner Program" that allows businesses to integrate Hotjar's services into their own offerings.
+
+1. Mixpanel: Mixpanel is an advanced analytics platform that helps businesses track and analyze user behavior across web and mobile applications. While specific details about an affiliate program for Mixpanel are not readily available, they offer a partner program called "Mixpanel Partner Program" that allows businesses to collaborate and integrate with Mixpanel.
+
+1. Optimizely: Optimizely is an experimentation and personalization platform that allows businesses to test and optimize their websites and mobile apps. While specific details about an affiliate program for Optimizely are not readily available, they offer a partner program called "Optimizely Partner Network" that allows businesses to build integrations and collaborate with Optimizely.
+
+1. Crazy Egg: Crazy Egg is a heat mapping and user behavior analytics tool that helps businesses understand how users interact with their websites. While specific details about an affiliate program for Crazy Egg are not readily available, they offer a partner program called "Crazy Egg Partnership Program" that allows businesses to integrate Crazy Egg's services into their own offerings.
+
+
+### CRM Tools Affiliate Program
+1. HubSpot: HubSpot is an all-in-one CRM (Customer Relationship Management) platform that provides tools for marketing, sales, customer service, and more. HubSpot has an affiliate program called the HubSpot Affiliate Program. Affiliates can earn commissions by referring customers to sign up for HubSpot's products and services. The program offers competitive commission rates, access to promotional materials, and dedicated affiliate support. Check https://www.hubspot.com/partners/affiliates for further info.
+
+1. Salesforce: Salesforce is a leading CRM platform that offers a wide range of cloud-based solutions for sales, marketing, customer service, and more. While specific details about an affiliate program for Salesforce are not readily available, they have a partner program called the Salesforce Partner Program. Partners can earn revenue by selling and implementing Salesforce solutions for their clients. Check https://partners.salesforce.com/pdx/s/learn/article/salesforce-partner-program-overview-MC5ULFJBAXXJACJH7WACWT7UQ2EI?language=en_US for further info.
+
+1. Zendesk: Zendesk is a customer service and engagement platform that provides tools for managing customer support, live chat, and help desk operations. While specific details about an affiliate program for Zendesk are not readily available, they offer a partner program called the Zendesk Partner Program. Partners can earn revenue by reselling and implementing Zendesk's solutions for their clients. Check  https://www.zendesk.com/partner/ for further info.
+
+1. Intercom: Intercom is a customer messaging platform that allows businesses to communicate with their customers through live chat, targeted messages, and email campaigns. While specific details about an affiliate program for Intercom are not readily available, they offer a partner program called the Intercom Partner Program. Partners can earn revenue by referring customers or integrating Intercom into their own solutions. Check https://www.intercom.com/partner/services-program for further info.
+
+### Notes Tools Affiliate Program
+1. Notion: Notion is a versatile productivity tool that allows users to create notes, documents, databases, and more. While specific details about an affiliate program for Notion are not readily available, they offer a referral program called "Notion Referral Program." Users can refer others to sign up for Notion and earn credits that can be used towards their subscription.
+
+1. Evernote: Evernote is a popular note-taking and organization tool that helps users capture and manage their ideas, notes, and tasks across different devices. While specific details about an affiliate program for Evernote are not readily available, they offer a referral program called "Evernote Referral Program." Users can refer others to sign up for Evernote and earn points that can be redeemed for premium features.
+
+1. OneNote: OneNote is a note-taking application developed by Microsoft that allows users to create and organize digital notes. While specific details about an affiliate program for OneNote are not readily available, they are part of the Microsoft Affiliate Program. Affiliates can earn commissions by promoting Microsoft's products and services, which may include OneNote.
+
+
+### Design Tools and Frontend Tools Affiliate Program
+1. Adobe: Adobe is a renowned software company that offers a wide range of creative tools and solutions, including Photoshop, Illustrator, Premiere Pro, and more. While specific details about an affiliate program for Adobe are not readily available, they have a partner program called the Adobe Affiliate Program. Affiliates can earn commissions by referring customers to purchase Adobe's software and services. Check https://www.adobe.com/affiliates.html for further info.
+
+1. Sketch: Sketch is a design tool specifically built for creating user interfaces and digital designs. While specific details about an affiliate program for Sketch are not readily available, they offer a partner program called "Sketch Partnership Program" that allows businesses to integrate Sketch's services into their own offerings. Check https://help.sketch.com/partners/how-can-i-become-an-official-partner-of-sketch for further info.
+
+1. Canva: Canva is an intuitive design platform that allows users to create graphics, presentations, social media posts, and more. While specific details about an affiliate program for Canva are not readily available, they offer a referral program called "Canva Referral Program." Users can refer others to sign up for Canva and earn credits that can be used towards their subscription.
+
+### Other
+1. Grammarly: Grammarly is an AI-powered writing assistant that helps users improve their grammar, spelling, and overall writing style. While specific details about an affiliate program for Grammarly are not readily available, they offer a referral program called "Grammarly Affiliate Program." Affiliates can earn commissions by referring users to sign up for Grammarly's premium plans.
+
+1. Zapier: Zapier is an automation tool that allows users to connect and automate workflows between different applications and services. While specific details about an affiliate program for Zapier are not readily available, they offer a referral program called "Zapier Partner Program." Users can refer others to sign up for Zapier and earn revenue share for successful referrals.
+
+1. Workspace By Google: Workspace by Google, formerly known as G Suite, is a suite of productivity and collaboration tools that includes Gmail, Google Drive, Google Docs, and more. They have a partner program called "Google Cloud Partner Advantage" that allows businesses to resell and integrate Google Cloud services, which may include Workspace. Check https://workspace.google.com/intl/en_en/affiliate-program/ or https://workspace.google.com/intl/en_en/referral-program/ for further info.
+
+1. Microsoft 365: Microsoft 365 is a productivity suite that offers a range of applications such as Word, Excel, PowerPoint, and Outlook. While specific details about an affiliate program for Microsoft 365 are not readily available, Microsoft has a partner program called the "Microsoft Partner Network" that allows businesses to resell and provide services around Microsoft products, which may include Microsoft 365. Check https://www.microsoft.com/en-ww/microsoft-365/business/microsoft-365-affiliate-program for further info.
+
+1. Dropbox: Dropbox is a cloud storage and file synchronization service that allows users to store and share files across different devices. While specific details about an affiliate program for Dropbox are not readily available, they offer a referral program called "Dropbox Refer a Friend." Users can refer others to sign up for Dropbox and earn additional storage space as a reward. Check https://www.dropbox.com/business/partners for more info.
+
+1. CircleCI: CircleCI is a continuous integration and delivery platform that helps teams automate their software development and deployment processes. While specific details about an affiliate program for CircleCI are not readily available, they offer a partner program called "CircleCI Technology Partner Program" that allows businesses to integrate their solutions with CircleCI and collaborate on joint marketing efforts.
+
+### Great Tools That Should Have Affiliate Program
+
+1. GitHub Copilot: GitHub Copilot is an AI-powered code completion tool developed by GitHub. While specific details about an affiliate program for GitHub Copilot are not readily available, they may offer referral or partnership programs in the future. It's recommended to check GitHub's official website or developer resources for any updates on affiliate programs.
+
+1. Visual Studio Code (VSCode): Visual Studio Code, commonly known as VSCode, is a popular source code editor developed by Microsoft. While specific details about an affiliate program for VSCode are not readily available, Microsoft offers a partner program called the "Microsoft Partner Network." This program allows businesses to collaborate and integrate their solutions with Microsoft products, which may include VSCode.
+
+1. Xcode: Xcode is an integrated development environment (IDE) developed by Apple for building applications for iOS, macOS, watchOS, and tvOS. While specific details about an affiliate program for Xcode are not readily available, Apple offers an affiliate program called the "Apple Services Performance Partners Program." This program allows affiliates to earn commissions by promoting Apple's services, which may include Xcode.
+
+1. Android Studio: Android Studio is the official IDE for developing Android applications, provided by Google. While specific details about an affiliate program for Android Studio are not readily available, Google has an affiliate program called the "Google Play Affiliate Program." Affiliates can earn commissions by promoting apps, games, and other digital content available on the Google Play Store, including apps developed using Android Studio.
+
+1. Postman: Postman is a collaboration platform for API development and testing. While specific details about an affiliate program for Postman are not readily available, they offer a partner program called "Postman Partner Program." This program allows businesses to integrate and build on top of Postman's platform, but it may not specifically focus on affiliate marketing.
+
+1. Cypress: Cypress is a JavaScript-based end-to-end testing framework for web applications. While specific details about an affiliate program for Cypress are not readily available, they offer a partnership program called "Cypress Integration Partner Program." This program allows businesses to integrate and collaborate with Cypress in building testing solutions.
+
+1. Docker: Docker is an open-source platform that enables developers to automate the deployment and scaling of applications using containerization. While specific details about an affiliate program for Docker are not readily available, they offer a partner program called "Docker Technology Partner Program." This program allows businesses to integrate their solutions with Docker and collaborate on joint marketing efforts.
+
+1. Slack: Slack is a communication and collaboration platform for teams. While specific details about an affiliate program for Slack are not readily available, they offer a partner program called "Slack Partner Program." This program allows businesses to build apps and integrations for Slack's platform and engage with Slack's user community.
+
+1. MongoDB: MongoDB is a popular NoSQL database management system. While specific details about an affiliate program for MongoDB are not readily available, they offer a partner program called "MongoDB Partner Program." This program allows businesses to collaborate with MongoDB and provide services and solutions built around MongoDB's database technology.
+
+1. Oracle: Oracle is a leading provider of enterprise software and database solutions. While specific details about an affiliate program for Oracle are not readily available, they have a partner program called "Oracle PartnerNetwork." This program allows businesses to resell and provide services around Oracle's products, including their database solutions.
+
+1. GitLab: GitLab is a web-based DevOps platform that provides source code management, CI/CD (Continuous Integration/Continuous Deployment), and collaboration features. While specific details about an affiliate program for GitLab are not readily available, they offer a partner program called "GitLab Partner Program." This program allows businesses to collaborate with GitLab and build integrations, extensions, and services that enhance the GitLab platform.
+
+1. OpenAI/ChatGPT: OpenAI is an AI research laboratory that develops cutting-edge AI models and technologies. While OpenAI does not have a specific affiliate program, they offer partnerships and collaborations with businesses and organizations interested in utilizing AI technologies. Check https://www.openaiworld.com/become-a-partner/ for further info.
+1. IBM Watson: IBM Watson is a suite of AI-powered services and tools provided by IBM. While specific details about an affiliate program for IBM Watson are not readily available, IBM does have a PartnerWorld program that allows businesses and organizations to become IBM partners and collaborate on various technologies, including AI. Check https://www.ibm.com/partnerplus/ for further info.
+
+
+
+
