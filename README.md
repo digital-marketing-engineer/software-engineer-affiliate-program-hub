@@ -2,7 +2,7 @@
 
 Welcome to the Software Engineer's Affiliate Program Hub! This repository serves as a comprehensive resource for software engineers interested in exploring and promoting affiliate programs related to their field. Whether you're a seasoned developer or just starting out, this hub provides valuable insights, tools, and a community to help you maximize your earning potential through affiliate marketing. You can say this repository is comprehensive guide of affiliate program for software engineer.
 
-## Why should you join affiliate programs?
+## :question:Why should you join affiliate programs?
 As a software engineer, engaging in affiliate marketing may answer questions you may asked:
 
 1. How can you monetize your expertise and earn passive income?
@@ -14,7 +14,7 @@ As a software engineer, engaging in affiliate marketing may answer questions you
 1. What skills can you develop in marketing and sales through affiliate marketing?
 1. How can you scale your income potential without limitations?
 
-## Key Features
+## :key:Key Features
 
 1. **Curated Affiliate Program Directory**: Discover a carefully curated directory of affiliate programs specifically tailored for software engineers. We've compiled a comprehensive list of high-quality programs spanning a variety of niches, including software development tools, online learning platforms, hosting services, productivity apps, and more.
 2. **Program Reviews and Recommendations**: Gain access to detailed reviews and recommendations of affiliate programs from experienced software engineers. Our community shares their firsthand experiences, providing valuable insights on program performance, commission structures, payout processes, and overall profitability.
@@ -28,7 +28,7 @@ Join the Software Engineer's Affiliate Program Hub today and unlock the potentia
 
 Note: This repository serves as a platform for information and discussion and does not endorse specific affiliate programs. Users are encouraged to conduct their own research and due diligence before engaging in any affiliate partnerships.
 
-### Submit your affiliate program
+### :arrow_heading_up:Submit your affiliate program
 
 <details>
   <summary>Are you offering an affiliate program related to software engineering products or services? We want to hear from you!</summary>
@@ -58,7 +58,7 @@ Note: We carefully evaluate and select affiliate programs based on their relevan
   
 </details>
 
-### Affiliate disclosure
+### :open_hands:Affiliate disclosure
 <details>
   <br>  
   This Software Engineer's Affiliate Program Hub repository may contain affiliate links. When you click on these links and make a purchase or take action, we may earn a commission at no additional cost to you.
@@ -72,7 +72,7 @@ Note: We carefully evaluate and select affiliate programs based on their relevan
 
 # Affiliate Program For Software Engineers
 
-## Software Engineer Interview Affiliate Program
+## :shipit:Software Engineer Interview Affiliate Program
 <details>
   <summary>Software Engineer Interview Affiliate Program Details</summary>
   <br>  
@@ -108,7 +108,7 @@ Note: We carefully evaluate and select affiliate programs based on their relevan
 Note: Some of these interview preparation does not offer clear way to join their affiliate program, so you may need to have big exposure such as big mailing list or social media with many followers to be able to join them. 
 
 
-## Online Course for Software Engineer Affiliate Program
+## :books:Online Course for Software Engineer Affiliate Program
 <details>
     <summary>Online Course for Software Engineer Affiliate Program Details</summary>
     <br>  
@@ -149,7 +149,7 @@ Note: Some of these interview preparation does not offer clear way to join their
 
 Note: Joining online course affiliate program has clearer way than interview preparation.
 
-## Project Management Tools Affiliate Program
+## :open_file_folder:Project Management Tools Affiliate Program
 
 1. **[Jira](https://www.atlassian.com/software/jira)**: Jira is a popular project management and issue tracking tool used by software teams. It helps teams plan, track, and release software more efficiently. Atlassian, the company behind Jira, offers an affiliate program called the Atlassian Partner Program. This program allows affiliates to earn commissions by referring customers to Jira and other Atlassian products. Check https://www.atlassian.com/partners/join for further info.
 
@@ -165,7 +165,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 
 1. **[Todoist](https://todoist.com/)**: Todoist is a popular task management and to-do list app that helps individuals and teams stay organized. While Todoist does not have an official affiliate program, they have a referral program where users can refer friends and earn premium features as rewards. Referring users receive perks like extended premium trials or free premium subscriptions for their own use. Check https://todoist.com/help/articles/todoist-partner-programs for further info.
 
-## Cloud Service Provider / Hosting Affiliate Program
+## :cloud:Cloud Service Provider / Hosting Affiliate Program
 
 1. **[AWS (Amazon Web Services)](https://aws.amazon.com/)**: AWS is a comprehensive cloud computing platform that offers a wide range of services, including computing power, storage, databases, and more. AWS has an affiliate program called the AWS Affiliate Program. Affiliates can earn referral fees by promoting AWS services and generating new customer sign-ups. The program provides tools, resources, and commissions based on the customer's usage of AWS services.
 
@@ -182,7 +182,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 1. **[DreamHost](https://www.dreamhost.com/)**: DreamHost is a web hosting and domain name registrar. They have an affiliate program called the DreamHost Affiliate Program. Affiliates can earn commissions by referring customers to sign up for DreamHost hosting plans and domain registrations.
 
 
-## Marketplace For Software Engineer Affiliate Program
+## :heavy_dollar_sign:Marketplace For Software Engineer Affiliate Program
 
 1. **[Envato](https://www.envato.com/)**: Envato is a marketplace for digital assets, including themes, templates, graphics, audio, and more. Envato has an affiliate program called the Envato Market Affiliate Program. Affiliates can earn commissions by referring customers to purchase items from Envato Market, which includes popular platforms like ThemeForest, CodeCanyon, GraphicRiver, and more. The program provides referral links and banners to help affiliates promote Envato's products.
 
@@ -197,7 +197,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 1. **[Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/store)**: Unreal Engine Marketplace is a platform for game development assets and resources designed for use with the Unreal Engine game engine. Unreal Engine Marketplace does not currently have an official affiliate program. However, Unreal Engine provides various partnership and collaboration opportunities through their Unreal Engine Community program, where developers can share and monetize their creations.
 
 
-## Freelancing Website Affiliate Program
+## :briefcase:Freelancing Website Affiliate Program
 1. **[Fiverr](https://www.fiverr.com/)**: Fiverr is a popular online marketplace that offers a wide range of digital services provided by freelancers. Fiverr has an affiliate program called the Fiverr Affiliates Program. Affiliates can earn commissions by referring new buyers or sellers to the platform. When a referred user signs up and completes a transaction on Fiverr, the affiliate earns a commission based on the transaction value.
 
 1. **[CodeClerks](https://codeclerks.com/)**: CodeClerks is a marketplace that specializes in digital services and products related to coding, web development, and programming. While CodeClerks does not have a specific affiliate program, it is a part of the SEOClerks marketplace. SEOClerks has an affiliate program where affiliates can earn commissions by referring customers to purchase services or products from any of the marketplaces within the SEOClerks network, including CodeClerks.
@@ -217,7 +217,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 
 1. **[Namecheap](https://www.namecheap.com/)**: Namecheap is a popular domain name registrar known for its affordable pricing and user-friendly interface. Namecheap offers an affiliate program called the Namecheap Affiliate Program. Affiliates can earn commissions by referring customers to purchase domain names, hosting, SSL certificates, and other services provided by Namecheap.
 
-## Low Code / No Code Platform Affiliate Program
+## :hammer:Low Code / No Code Platform Affiliate Program
 
 1. **[Andromo](https://www.andromo.com/)**: Andromo is a mobile app development platform that allows users to create and monetize their own Android apps without any coding. While I couldn't find specific information about an affiliate program for Andromo, they offer various monetization features within their platform, such as displaying ads and integrating in-app purchases.
 
@@ -230,7 +230,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 ## AI Tools Affiliate Program
 Let me know if there is any AI Tools for software engineer that can be added to this list.
 
-## Mailing Tools Affiliate Program
+## :incoming_envelope:Mailing Tools Affiliate Program
 1. **[Mailchimp](https://mailchimp.com/)**: Mailchimp is an all-in-one marketing platform that provides email marketing, automation, and other digital marketing services. Mailchimp has an affiliate program called the Mailchimp Affiliate Program. Affiliates can earn commissions by referring new customers to sign up for Mailchimp's paid plans. The program offers competitive commission rates and provides affiliates with tracking links and promotional materials.
 
 1. **[Sendgrid](https://sendgrid.com/)**: Sendgrid is a cloud-based email delivery and management platform that helps businesses send transactional and marketing emails. While Sendgrid does not have a specific affiliate program, they offer partnerships and integrations with various platforms, allowing businesses to refer customers to use Sendgrid as their email delivery service.
@@ -248,7 +248,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[GetResponse](https://www.getresponse.com/)**: GetResponse is an email marketing and marketing automation platform that helps businesses create and manage their email campaigns. GetResponse has an affiliate program called the GetResponse Affiliate Program. Affiliates can earn commissions by referring customers to sign up for GetResponse's paid plans. The program offers competitive commission rates, tracking, and marketing resources.
 
 
-## Digital Marketing Tools
+## :microphone:Digital Marketing Tools
 1. **[SEMrush](https://www.semrush.com/)**: SEMrush is an all-in-one digital marketing tool that provides solutions for SEO, PPC advertising, content marketing, social media, and more. SEMrush has an affiliate program called the SEMrush Affiliate Program. Affiliates can earn commissions by referring customers to sign up for SEMrush's subscription plans. The program offers competitive commission rates, promotional materials, and affiliate support.
 
 1. **[BuzzSumo](https://buzzsumo.com/)**: BuzzSumo is a content research and discovery tool that helps users find popular content and influencers in their industry. While BuzzSumo does not have a specific affiliate program, they offer a partnership program called the BuzzSumo Agency Partner Program. Partners can earn revenue by referring clients to BuzzSumo and receiving a percentage of the generated revenue.
@@ -256,7 +256,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[Hootsuite](https://www.hootsuite.com/)**: Hootsuite is a social media management platform that allows users to manage and schedule their social media content across various networks. Hootsuite has an affiliate program called the Hootsuite Affiliate Program. Affiliates can earn commissions by referring customers to sign up for Hootsuite's paid plans. The program provides affiliates with tracking links, banners, and commission tracking.
 
 
-## VPN Affiliate Program
+## :mask:VPN Affiliate Program
 1. **[TunnelBear](https://www.tunnelbear.com/)**: TunnelBear is a VPN (Virtual Private Network) service that provides secure and private internet browsing. While specific details about an affiliate program for TunnelBear are not readily available, they offer a referral program called "Grrr! Affiliates." Users can refer others to sign up for TunnelBear and earn free data as a reward for successful referrals.
 
 1. **[ExpressVPN](https://www.expressvpn.com/)**: ExpressVPN is a popular VPN service that offers secure and anonymous browsing, along with access to geo-restricted content. ExpressVPN has an affiliate program called the ExpressVPN Affiliate Program. Affiliates can earn commissions by referring customers to sign up for ExpressVPN's subscription plans. The program offers competitive commission rates, dedicated affiliate support, and real-time reporting.
@@ -266,7 +266,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[NordVPN](https://nordvpn.com/)**: NordVPN is a well-known VPN service that offers secure and private internet access, with a wide range of server locations. NordVPN has an affiliate program called the NordVPN Affiliate Program. Affiliates can earn commissions by referring customers to sign up for NordVPN's subscription plans. The program offers competitive commission rates, marketing materials, and dedicated affiliate support.
 
 
-## Password Manager Affiliate Program
+## :closed_lock_with_key:Password Manager Affiliate Program
 1. **[LastPass](https://www.lastpass.com/)**: LastPass is a password management tool that securely stores and autofills passwords across various devices and platforms. LastPass has an affiliate program called the LastPass Affiliate Program. Affiliates can earn commissions by referring customers to sign up for LastPass's premium plans. The program offers competitive commission rates, affiliate tracking, and promotional resources.
 
 1. **[NordPass](https://nordpass.com/)**: NordPass is a password manager developed by NordVPN, providing secure password storage and management. While specific details about an affiliate program for NordPass are not readily available, NordVPN, the parent company, has an affiliate program. Affiliates can earn commissions by referring customers to sign up for NordVPN's subscription plans, and there may be opportunities to promote NordPass as part of the program.
@@ -276,7 +276,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[1Password](https://1password.com/)**: 1Password is a password manager that allows users to securely store and manage their passwords and other sensitive information. 1Password has an affiliate program called the 1Password Affiliate Program. Affiliates can earn commissions by referring customers to sign up for 1Password's subscription plans. The program offers competitive commission rates, affiliate tracking, and marketing materials.
 
 
-## Monitoring Tools Affiliate Program
+## :tv:Monitoring Tools Affiliate Program
 1. **[Pingdom](https://www.pingdom.com/)**: Pingdom is a website monitoring tool that checks the availability and performance of websites and web applications. While specific details about an affiliate program for Pingdom are not readily available, they offer a partner program called "Pingdom Partner Program" that allows businesses to integrate Pingdom's services into their own offerings.
 
 1. **[Datadog](https://www.datadoghq.com/)**: Datadog is a monitoring and analytics platform that provides real-time insights into the performance and health of applications, infrastructure, and logs. While specific details about an affiliate program for Datadog are not readily available, they offer a partner program called "Datadog Partner Network" that allows businesses to collaborate and integrate their solutions with Datadog.
@@ -288,7 +288,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[Sentry](https://sentry.io/)**: Sentry is an error monitoring and application performance management platform that helps developers identify and fix issues in their software. While specific details about an affiliate program for Sentry are not readily available, they offer a partner program called "Sentry Integration Partner Program" that allows businesses to integrate Sentry's services into their own offerings.
 
 
-## Analytics Tools Affiliate Program
+## :eyeglasses:Analytics Tools Affiliate Program
 1. **[Hotjar](https://www.hotjar.com/)**: Hotjar is an all-in-one analytics and feedback tool that helps businesses understand user behavior on their websites. While specific details about an affiliate program for Hotjar are not readily available, they offer a partner program called "Hotjar Partner Program" that allows businesses to integrate Hotjar's services into their own offerings.
 
 1. **[Mixpanel](https://mixpanel.com/)**: Mixpanel is an advanced analytics platform that helps businesses track and analyze user behavior across web and mobile applications. While specific details about an affiliate program for Mixpanel are not readily available, they offer a partner program called "Mixpanel Partner Program" that allows businesses to collaborate and integrate with Mixpanel.
@@ -298,7 +298,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[Crazy Egg](https://www.crazyegg.com/)**: Crazy Egg is a heat mapping and user behavior analytics tool that helps businesses understand how users interact with their websites. While specific details about an affiliate program for Crazy Egg are not readily available, they offer a partner program called "Crazy Egg Partnership Program" that allows businesses to integrate Crazy Egg's services into their own offerings.
 
 
-## CRM Tools Affiliate Program
+## :heart_eyes:CRM Tools Affiliate Program
 1. **[HubSpot](https://www.hubspot.com/)**: HubSpot is an all-in-one CRM (Customer Relationship Management) platform that provides tools for marketing, sales, customer service, and more. HubSpot has an affiliate program called the HubSpot Affiliate Program. Affiliates can earn commissions by referring customers to sign up for HubSpot's products and services. The program offers competitive commission rates, access to promotional materials, and dedicated affiliate support. Check https://www.hubspot.com/partners/affiliates for further info.
 
 1. **[Salesforce](https://www.salesforce.com/)**: Salesforce is a leading CRM platform that offers a wide range of cloud-based solutions for sales, marketing, customer service, and more. While specific details about an affiliate program for Salesforce are not readily available, they have a partner program called the Salesforce Partner Program. Partners can earn revenue by selling and implementing Salesforce solutions for their clients. Check https://partners.salesforce.com/pdx/s/learn/article/salesforce-partner-program-overview-MC5ULFJBAXXJACJH7WACWT7UQ2EI?language=en_US for further info.
@@ -315,14 +315,14 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[OneNote](https://www.microsoft.com/en-ww/microsoft-365/onenote/digital-note-taking-app)**: OneNote is a note-taking application developed by Microsoft that allows users to create and organize digital notes. While specific details about an affiliate program for OneNote are not readily available, they are part of the Microsoft Affiliate Program. Affiliates can earn commissions by promoting Microsoft's products and services, which may include OneNote.
 
 
-## Design Tools and Frontend Tools Affiliate Program
+## :art:Design Tools and Frontend Tools Affiliate Program
 1. **[Adobe](https://www.adobe.com/creativecloud.html)**: Adobe is a renowned software company that offers a wide range of creative tools and solutions, including Photoshop, Illustrator, Premiere Pro, and more. While specific details about an affiliate program for Adobe are not readily available, they have a partner program called the Adobe Affiliate Program. Affiliates can earn commissions by referring customers to purchase Adobe's software and services. Check https://www.adobe.com/affiliates.html for further info.
 
 1. **[Sketch](https://www.sketch.com/)**: Sketch is a design tool specifically built for creating user interfaces and digital designs. While specific details about an affiliate program for Sketch are not readily available, they offer a partner program called "Sketch Partnership Program" that allows businesses to integrate Sketch's services into their own offerings. Check https://help.sketch.com/partners/how-can-i-become-an-official-partner-of-sketch for further info.
 
 1. **[Canva](https://www.canva.com/)**: Canva is an intuitive design platform that allows users to create graphics, presentations, social media posts, and more. While specific details about an affiliate program for Canva are not readily available, they offer a referral program called "Canva Referral Program." Users can refer others to sign up for Canva and earn credits that can be used towards their subscription.
 
-## Other
+## :computer:Other
 1. **[Grammarly](https://www.grammarly.com/)**: Grammarly is an AI-powered writing assistant that helps users improve their grammar, spelling, and overall writing style. While specific details about an affiliate program for Grammarly are not readily available, they offer a referral program called "Grammarly Affiliate Program." Affiliates can earn commissions by referring users to sign up for Grammarly's premium plans.
 
 1. **[Zapier](https://zapier.com/)**: Zapier is an automation tool that allows users to connect and automate workflows between different applications and services. While specific details about an affiliate program for Zapier are not readily available, they offer a referral program called "Zapier Partner Program." Users can refer others to sign up for Zapier and earn revenue share for successful referrals.
@@ -335,7 +335,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 
 1. **[CircleCI](https://circleci.com/)**: CircleCI is a continuous integration and delivery platform that helps teams automate their software development and deployment processes. While specific details about an affiliate program for CircleCI are not readily available, they offer a partner program called "CircleCI Technology Partner Program" that allows businesses to integrate their solutions with CircleCI and collaborate on joint marketing efforts.
 
-## Great Tools That Should Have Affiliate Program
+## :grey_exclamation:Great Tools That Should Have Affiliate Program
 
 1. **[GitHub Copilot](https://github.com/features/copilot)**: GitHub Copilot is an AI-powered code completion tool developed by GitHub. While specific details about an affiliate program for GitHub Copilot are not readily available, they may offer referral or partnership programs in the future. It's recommended to check GitHub's official website or developer resources for any updates on affiliate programs.
 
