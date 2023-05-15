@@ -62,7 +62,6 @@ Note: We carefully evaluate and select affiliate programs based on their relevan
 
 ## Affiliate Program For Software Engineers
 
-
 ### Software Engineer Interview Affiliate Program
 <details>
   <summary>Software Engineer Interview Affiliate Program Details</summary>
@@ -96,5 +95,64 @@ Note: We carefully evaluate and select affiliate programs based on their relevan
 
 1. [**CodeSignal**](https://codesignal.com/): A coding assessment and interview preparation platform. They offer an affiliate program that provides commissions for each referred user who signs up and purchases their coding assessment or interview preparation services. There are no clear information on how to join their affiliate program. You can send inquiry email to support@codesignal.com
 
+Note: Some of these interview preparation does not offer clear way to join their affiliate program, so you may need to have big exposure such as big mailing list or social media with many followers to be able to join them. 
 
 
+### Online Course for Software Engineer Affiliate Program
+<details>
+    <summary>Online Course for Software Engineer Affiliate Program Details</summary>
+    <br>  
+    Introducing exceptional online courses for software engineers, accompanied by lucrative affiliate programs that offer enticing advantages. These programs not only allow you to expand your skill set but also provide an opportunity to earn commissions by promoting these courses to fellow engineers. Let's explore the advantages of joining their affiliate programs:
+  <br>  
+  <br>  
+  Advantages of joining these affiliate programs include:
+
+  1. Lucrative Commissions: Earn generous commissions for each referral or successful course enrollment, providing a passive income stream.
+
+  1. Relevance to Audience: Promote high-quality courses tailored specifically for software engineers, ensuring alignment with your audience's interests and needs.
+
+  1. Trusted Brands: Partner with reputable course providers, benefiting from their established credibility and recognition within the software engineering community.
+
+  1. Marketing Support: Access promotional materials, customized tracking links, and guidance to optimize your marketing efforts and drive conversions.
+
+  1. Personal and Professional Growth: Expand your network, enhance your industry knowledge, and establish yourself as a trusted influencer in the software engineering field.
+
+</details>
+
+1. **[Udemy](https://www.udemy.com/)**: Udemy is a popular online learning platform that offers a wide range of software engineering courses. They have an affiliate program that allows you to earn commissions for each referred sale. To join Udemy affiliate program, you can access this page https://www.udemy.com/affiliate/
+
+1. **[Coursera](https://www.coursera.org/)**: Coursera is a leading online education platform offering courses from top universities and institutions. They have an affiliate program that enables you to earn commissions for each referred learner who enrolls in a course. To join Coursera affiliate program, you can access this page https://about.coursera.org/affiliates
+
+1. **[Pluralsight](https://www.pluralsight.com/)**: Pluralsight provides a vast library of online courses and tutorials covering various software engineering topics. They have an affiliate program that offers commissions for referred users who become paid subscribers. To join Pluralsight affiliate program, you can access this page https://www.pluralsight.com/affiliate
+
+1. **[edX](https://www.edx.org/)**: edX is an online learning platform that offers courses from renowned universities and institutions worldwide. They have an affiliate program where you can earn commissions for each referred learner who enrolls in a course. To join edX affiliate program, you can access this page https://www.edx.org/affiliate-program
+
+1. **[LinkedIn](https://www.linkedin.com/learning/)** Learning: Formerly known as Lynda.com, LinkedIn Learning offers a wide range of software engineering courses taught by industry experts. They have an affiliate program that allows you to earn commissions for each referred subscriber. To join LinkedIn Learning affiliate program, you can access this page https://www.linkedin.com/help/learning/answer/a704857
+
+1. **[Codecademy](https://www.codecademy.com/)**: Codecademy offers interactive coding courses for beginners and experienced programmers. They have an affiliate program that offers commissions for each referred user who signs up for a paid membership. To join Codecademy affiliate program, you can access this page https://www.codecademy.com/pages/codecademy-affiliate-program
+
+1. **[Skillshare](https://www.skillshare.com/en/)**: Skillshare offers a diverse range of creative and technical courses, including software engineering topics. They have an affiliate program that offers commissions for each referred user who becomes a premium member. To join Skillshare affiliate program, you can access this page https://www.skillshare.com/en/affiliates
+
+1. **[Treehouse](https://teamtreehouse.com/)**: Treehouse provides online courses on web development, programming, and other software engineering topics. They have an affiliate program that allows you to earn commissions for each referred user who becomes a paying member. To join Treehouse affiliate program, you can access this page https://blog.teamtreehouse.com/treehouse-affiliate-program, however, it seems their affiliate program is now changed because the link included in mentioned page is not working anymore
+
+
+Note: Joining online course affiliate program has clearer way than interview preparation.
+
+### Tools For Software Engineer Affiliate Program
+- Jira
+- Jetbrains
+- Trello
+- Monday.com
+- ClickUp
+
+### Cloud Service Provider / Hosting Affiliate Program
+- AWS
+- Digital Ocean
+
+### Marketplace For Software Engineer Affiliate Program
+- Envato
+- Codester
+
+### Freelancing Website Affiliate Program
+
+### Domain registrar
