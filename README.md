@@ -2,6 +2,28 @@
 
 Welcome to the Software Engineer's Affiliate Program Hub! This repository serves as a comprehensive resource for software engineers interested in exploring and promoting affiliate programs related to their field. Whether you're a seasoned developer or just starting out, this hub provides valuable insights, tools, and a community to help you maximize your earning potential through affiliate marketing. You can say this repository is comprehensive guide of affiliate program for software engineer.
 
+## Table of Contents (Only Important)
+- [:shipit:Software Engineer Interview Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#shipitsoftware-engineer-interview-affiliate-program)
+- [:books:Online Course for Software Engineer Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#booksonline-course-for-software-engineer-affiliate-program)
+- [:open_file_folder:Project Management Tools Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#open_file_folderproject-management-tools-affiliate-program)
+- [:cloud:Cloud Service Provider / Hosting Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#cloudcloud-service-provider--hosting-affiliate-program)
+- [:heavy_dollar_sign:Marketplace For Software Engineer Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#heavy_dollar_signmarketplace-for-software-engineer-affiliate-program)
+- [:briefcase:Freelancing Website Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#briefcasefreelancing-website-affiliate-program)
+- [:compass:Domain registrar Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#compassdomain-registrar-affiliate-program)
+- [:hammer:Low Code / No Code Platform Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#hammerlow-code--no-code-platform-affiliate-program)
+- [:robot:AI Tools Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#robotai-tools-affiliate-program)
+- [:incoming_envelope:Mailing Tools Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#incoming_envelopemailing-tools-affiliate-program)
+- [:microphone:Digital Marketing Tools](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#microphonedigital-marketing-tools)
+- [:mask:VPN Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#maskvpn-affiliate-program)
+- [:closed_lock_with_key:Password Manager Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#closed_lock_with_keypassword-manager-affiliate-program)
+- [:tv:Monitoring Tools Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#tvmonitoring-tools-affiliate-program)
+- [:eyeglasses:Analytics Tools Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#eyeglassesanalytics-tools-affiliate-program)
+- [:heart_eyes:CRM Tools Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#heart_eyescrm-tools-affiliate-program)
+- [:memo:Note-Taking / Documentation Tools Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#memonote-taking--documentation-tools-affiliate-program)
+- [:art:Design Tools and Frontend Tools Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#artdesign-tools-and-frontend-tools-affiliate-program)
+- [:computer:Other](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#computerother)
+- [:exclamation:Great Tools That Should Have Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#exclamationgreat-tools-that-should-have-affiliate-program)
+
 ## :question:Why should you join affiliate programs?
 As a software engineer, engaging in affiliate marketing may answer questions you may asked:
 
@@ -207,7 +229,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 
 1. **[Toptal](https://www.toptal.com/)**: Toptal is a platform that connects businesses with top freelancers in fields like software development, design, and finance. While Toptal does not have a traditional affiliate program, they have a Talent Scout Program where you can earn a referral bonus by referring freelancers who get accepted into the Toptal network. Check this https://www.toptal.com/referral_program for further information on how to join Toptal affiliate program.
 
-## Domain registrar Affiliate Program
+## :compass:Domain registrar Affiliate Program
 1. **[GoDaddy](https://www.godaddy.com/)**: GoDaddy is one of the largest domain name registrars and web hosting companies. They have an affiliate program called the GoDaddy Affiliate Program. Affiliates can earn commissions by referring customers to purchase domain names, hosting plans, and other products offered by GoDaddy. Check this https://www.godaddy.com/affiliate-programs for further information on how to join GoDaddy affiliate program.
 
 1. **[Namecheap](https://www.namecheap.com/)**: Namecheap is a popular domain name registrar known for its affordable pricing and user-friendly interface. Namecheap offers an affiliate program called the Namecheap Affiliate Program. Affiliates can earn commissions by referring customers to purchase domain names, hosting, SSL certificates, and other services provided by Namecheap. Check this https://www.namecheap.com/affiliates/ for further information on how to join Namecheap affiliate program.
@@ -222,7 +244,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 
 1. **[Leadpages](https://www.leadpages.com/)**: Leadpages is a landing page and lead generation platform that helps users create high-converting landing pages and capture leads. Leadpages has an affiliate program called the Leadpages Partner Program. Affiliates can earn recurring commissions by referring customers to sign up for Leadpages' subscription plans. The program offers competitive commission rates, real-time tracking, and provides affiliates with marketing resources. Check this https://lp.leadpages.com/affiliates/ for further information on how to join Leadpages affiliate program.
 
-## AI Tools Affiliate Program
+## :robot:AI Tools Affiliate Program
 Let me know if there is any AI Tools for software engineer that can be added to this list.
 
 ## :incoming_envelope:Mailing Tools Affiliate Program
@@ -302,7 +324,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 
 1. **[Intercom](https://www.intercom.com/)**: Intercom is a customer messaging platform that allows businesses to communicate with their customers through live chat, targeted messages, and email campaigns. While specific details about an affiliate program for Intercom are not readily available, they offer a partner program called the Intercom Partner Program. Partners can earn revenue by referring customers or integrating Intercom into their own solutions. Check https://www.intercom.com/partner/services-program for further info.
 
-## Note-Taking / Documentation Tools Affiliate Program
+## :memo:Note-Taking / Documentation Tools Affiliate Program
 1. **[Notion](https://www.notion.so/)**: Notion is a versatile productivity tool that allows users to create notes, documents, databases, and more. While specific details about an affiliate program for Notion are not readily available, they offer a referral program called "Notion Referral Program." Users can refer others to sign up for Notion and earn credits that can be used towards their subscription. Check this https://www.notion.so/affiliates for further information on how to join Notion affiliate program.
 
 1. **[Evernote](https://evernote.com/)**: Evernote is a popular note-taking and organization tool that helps users capture and manage their ideas, notes, and tasks across different devices. While specific details about an affiliate program for Evernote are not readily available, they offer a referral program called "Evernote Referral Program." Users can refer others to sign up for Evernote and earn points that can be redeemed for premium features. Check this https://evernote.com/resources/affiliates for further information on how to join Evernote affiliate program.
@@ -326,7 +348,7 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 
 1. **[Dropbox](https://www.dropbox.com/)**: Dropbox is a cloud storage and file synchronization service that allows users to store and share files across different devices. While specific details about an affiliate program for Dropbox are not readily available, they offer a referral program called "Dropbox Refer a Friend." Users can refer others to sign up for Dropbox and earn additional storage space as a reward. Check https://www.dropbox.com/business/partners for more info.
 
-## :grey_exclamation:Great Tools That Should Have Affiliate Program
+## :exclamation:Great Tools That Should Have Affiliate Program
 
 1. **[GitHub Copilot](https://github.com/features/copilot)**: GitHub Copilot is an AI-powered code completion tool developed by GitHub. While specific details about an affiliate program for GitHub Copilot are not readily available, they may offer referral or partnership programs in the future. It's recommended to check GitHub's official website or developer resources for any updates on affiliate programs.
 
