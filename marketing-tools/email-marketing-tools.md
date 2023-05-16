@@ -1,5 +1,8 @@
 # Table of Contents
 1. [List of Email Marketing tools](#email-marketing-tools)
+2. [Step-By-Step Guide to Grow Your Mailing List as Software Engineer](#step-by-step-guide-to-grow-your-mailing-list-as-software-engineer)
+3. [Best Practices for Email Marketing Tools](#best-practices-for-email-marketing-tools)
+
 
 # Email Marketing Tools
 
@@ -51,7 +54,7 @@ Email marketing tools are essential for creating, managing, and automating email
 Building and growing a mailing list takes time and effort. Stay consistent, provide value, and adapt your strategies based on the feedback and preferences of your subscribers.
 
 
-## Best Practices for Email Marketing Tools
+# Best Practices for Email Marketing Tools
 
 Email marketing tools are powerful platforms that can help you effectively engage with your audience and drive business growth. To make the most out of these tools, here are some best practices to follow:
 
