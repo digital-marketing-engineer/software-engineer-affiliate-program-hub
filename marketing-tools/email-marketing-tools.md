@@ -1,3 +1,6 @@
+# Table of Contents
+1. [List of Email Marketing tools](#email-marketing-tools)
+
 # Email Marketing Tools
 
 Email marketing tools are essential for creating, managing, and automating email campaigns. They help businesses effectively reach their audience and drive engagement. Here are some popular email marketing tools:
