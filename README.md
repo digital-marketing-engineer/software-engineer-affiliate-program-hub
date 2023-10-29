@@ -204,6 +204,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 
 1. **[DreamHost](https://www.dreamhost.com/)**: DreamHost is a web hosting and domain name registrar. They have an affiliate program called the DreamHost Affiliate Program. Affiliates can earn commissions by referring customers to sign up for DreamHost hosting plans and domain registrations. Check this https://www.dreamhost.com/affiliates/ for further information on how to join DreamHost affiliate program.
 
+1. **[Kinsta](https://kinsta.com/affiliates/)**: Recurring commissions for app & database hosting.
 
 ## :heavy_dollar_sign:Marketplace For Software Engineer Affiliate Program
 
