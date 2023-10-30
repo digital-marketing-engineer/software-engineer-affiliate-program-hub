@@ -1,6 +1,11 @@
 # Software Engineer Affiliate Program Hub
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Welcome to the Software Engineer's Affiliate Program Hub! This repository serves as a comprehensive resource for software engineers interested in exploring and promoting affiliate programs related to their field. Whether you're a seasoned developer or just starting out, this hub provides valuable insights, tools, and a community to help you maximize your earning potential through affiliate marketing. You can say this repository is a comprehensive guide to affiliate programs for software engineers.
+
+## Sponsors
+
+**Be my sponsor and your logo will be here!**
 
 ## Useful Guide In This Repo
 1. 📧 [Guide To Be Successful in Growing Mailing List As a Software Engineer](/marketing-tools/email-marketing-tools.md)
@@ -386,3 +391,17 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[Zapier](https://zapier.com/)**: Zapier is an automation tool that allows users to connect and automate workflows between different applications and services. While specific details about an affiliate program for Zapier are not readily available, they offer a referral program called "Zapier Partner Program." Users can refer others to sign up for Zapier and earn revenue share for successful referrals. Check this https://zapier.com/platform/partner-program for further information.
 
 1. **[CircleCI](https://circleci.com/)**: CircleCI is a continuous integration and delivery platform that helps teams automate their software development and deployment processes. While specific details about an affiliate program for CircleCI are not readily available, they offer a partner program called "CircleCI Technology Partner Program" that allows businesses to integrate their solutions with CircleCI and collaborate on joint marketing efforts. Check this https://circleci.com/partners/ for further information on how to join CircleCI partner program.
+
+## Contributors 😍
+
+Many thanks to these contributor:
+
+<a href="https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=digital-marketing-engineer/software-engineer-affiliate-program-hub" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+# License
+
+CC-0
