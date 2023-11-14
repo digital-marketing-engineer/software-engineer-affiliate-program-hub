@@ -95,7 +95,7 @@ Set clear and realistic goals for your partnership with the affiliate program. E
 
 ## 4. Affiliate Program Application Cheat Sheet
 
-Use this [Affiliate Program Application Checklist](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub/blob/main/guides/affiliate-program-application-check-list.md) to ensure you're well-prepared when applying for an affiliate program.
+Use this [Affiliate Program Application Checklist](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub/blob/main/guides/check-list/affiliate-program-application-check-list.md) to ensure you're well-prepared when applying for an affiliate program.
 
 ---
 
