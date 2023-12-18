@@ -11,6 +11,7 @@ Welcome to the Software Engineer's Affiliate Program Hub! This repository serves
 1. 📧 [Guide To Be Successful in Growing Mailing List As a Software Engineer](/marketing-tools/email-marketing-tools.md)
 2. 👍 [Tips to be accepted by affiliate program](/guides/tips-to-be-accepted-affiliate-program.md)
 3. 👓 [Tips for successful career in digital marketing industry as software engineer](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub/blob/main/guides/software-engineer-digital-marketing-success.md)
+4. 📺 [Journal: How to create Succesful YouTube Channel](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub/blob/main/guides/how-to-create-successful-youtube-channel.md)
 
 ## Table of Contents (Only Important)
 - [:shipit: Software Engineer Interview Affiliate Program](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#shipitsoftware-engineer-interview-affiliate-program)
