@@ -1,4 +1,4 @@
-# Software Engineers! Discover the power of Digital Marketing
+# Software Engineers! The power of Digital Marketing
 
 > TL;DR: This Github gist will help you start your software engineering career in digital marketing industry.
 
