@@ -395,6 +395,9 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 
 1. **[CircleCI](https://circleci.com/)**: CircleCI is a continuous integration and delivery platform that helps teams automate their software development and deployment processes. While specific details about an affiliate program for CircleCI are not readily available, they offer a partner program called "CircleCI Technology Partner Program" that allows businesses to integrate their solutions with CircleCI and collaborate on joint marketing efforts. Check this https://circleci.com/partners/ for further information on how to join CircleCI partner program.
 
+1. **[SEO.AI](https://www.google.com/search?q=seo.ai+affiliate+program)**: SEO.ai is AI content writer. Their meta tag said "Powerful AI Writer that helps you identify the SEO gaps. Keyword research. Content generation. Optimization. All done by AI and integrated with rank". As of this update, no affiliate program for this tool.
+
+
 ## Contributors 😍
 
 Many thanks to these contributor:
