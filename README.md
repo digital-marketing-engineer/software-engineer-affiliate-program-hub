@@ -259,6 +259,7 @@ Note: Joining online course affiliate program has clearer way than interview pre
 
 ## :robot:AI Tools Affiliate Program
 Let me know if there is any AI Tools for software engineer that can be added to this list.
+1. **[Fine.dev](https://www.fine.dev/)**: Fine is the AI coding platform for startups to build, test and ship software faster than ever before. Use AI in your natural collaborative workflows, wherever you are. Check their [affiliate pitch deck](https://www.canva.com/design/DAGRGhtjlsY/zbISgLy9gp5BZTKiCEcfcg/view?utm_content=DAGRGhtjlsY&utm_campaign=designshare&utm_medium=link&utm_source=editor#6).
 
 ## :incoming_envelope:Mailing Tools Affiliate Program
 1. **[Mailchimp](https://mailchimp.com/)**: Mailchimp is an all-in-one marketing platform that provides email marketing, automation, and other digital marketing services. Mailchimp has an affiliate program called the Mailchimp Affiliate Program. Affiliates can earn commissions by referring new customers to sign up for Mailchimp's paid plans. The program offers competitive commission rates and provides affiliates with tracking links and promotional materials. Check this https://mailchimp.com/referral-program/ for further information on how to join Mailchimp affiliate program.
