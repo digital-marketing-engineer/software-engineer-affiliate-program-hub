@@ -361,6 +361,8 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 
 1. **[Dropbox](https://www.dropbox.com/)**: Dropbox is a cloud storage and file synchronization service that allows users to store and share files across different devices. While specific details about an affiliate program for Dropbox are not readily available, they offer a referral program called "Dropbox Refer a Friend." Users can refer others to sign up for Dropbox and earn additional storage space as a reward. Check https://www.dropbox.com/business/partners for more info.
 
+2. **[BCMS](https://www.thebcms.com/)**: BCMS is a Headless CMS for developers and their clients. It provides flexible content modeling for creative projects in Next.js, Gatsby.js, and Nuxt.js, Svelte, Astro. They offer a referral program. Check https://thebcms.com/affiliate for more info.
+
 ## :exclamation:Great Tools That Should Have Affiliate Program
 
 1. **[GitHub Copilot](https://github.com/features/copilot)**: GitHub Copilot is an AI-powered code completion tool developed by GitHub. While specific details about an affiliate program for GitHub Copilot are not readily available, they may offer referral or partnership programs in the future. It's recommended to check GitHub's official website or developer resources for any updates on affiliate programs.
