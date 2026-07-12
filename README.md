@@ -355,6 +355,8 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 
 1. **[Canva](https://www.canva.com/)**: Canva is an intuitive design platform that allows users to create graphics, presentations, social media posts, and more. While specific details about an affiliate program for Canva are not readily available, they offer a referral program called "Canva Referral Program." Users can refer others to sign up for Canva and earn credits that can be used towards their subscription. Check this https://www.canva.com/learn/how-to-get-started-as-a-canva-affiliate/ for further information on how to join Canva affiliate program.
 
+1. **[UIZZE](https://uizze.com/)**: A UI reference platform for iOS and Web product interfaces, with a public catalog that is free to browse and full access at $9/month or $99 once. Its [affiliate program](https://uizze.com/affiliates) pays 50% of each referred buyer's first paid order; commission is non-recurring, subject to a 30-day hold, and paid manually.
+
 ## :computer:Other
 1. **[Grammarly](https://www.grammarly.com/)**: Grammarly is an AI-powered writing assistant that helps users improve their grammar, spelling, and overall writing style. It is very helpful to help software engineer to communicate and creating documentation. While specific details about an affiliate program for Grammarly are not readily available, they offer a referral program called "Grammarly Affiliate Program." Affiliates can earn commissions by referring users to sign up for Grammarly's premium plans. Check this https://www.grammarly.com/affiliates for further information on how to join Grammarly affiliate program.
 
