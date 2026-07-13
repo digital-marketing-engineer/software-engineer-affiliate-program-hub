@@ -288,6 +288,8 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 
 1. **[Hootsuite](https://www.hootsuite.com/)**: Hootsuite is a social media management platform that allows users to manage and schedule their social media content across various networks. Hootsuite has an affiliate program called the Hootsuite Affiliate Program. Affiliates can earn commissions by referring customers to sign up for Hootsuite's paid plans. The program provides affiliates with tracking links, banners, and commission tracking. Check this https://www.hootsuite.com/partners for further information on how to join Hootsuite affiliate program.
 
+1. **[Kafkai](https://kafkai.com/)**: Kafkai is a competitive intelligence platform that monitors competitor rankings, keywords, and content strategies, and generates SEO-optimized content based on those insights. Kafkai has an affiliate program that pays 10% of every payment made by your referrals for 12 months, with a 30-day tracking window. Check this https://kafkai.com/en/affiliate/ for further information on how to join Kafkai affiliate program.
+
 
 ## :mask:VPN Affiliate Program
 1. **[TunnelBear](https://www.tunnelbear.com/)**: TunnelBear is a VPN (Virtual Private Network) service that provides secure and private internet browsing. While specific details about an affiliate program for TunnelBear are not readily available, they offer a referral program called "Grrr! Affiliates." Users can refer others to sign up for TunnelBear and earn free data as a reward for successful referrals. Check this https://www.tunnelbear.com/affiliate/ for further information on how to join TunnelBear affiliate program.
@@ -401,6 +403,8 @@ Let me know if there is any AI Tools for software engineer that can be added to 
 1. **[CircleCI](https://circleci.com/)**: CircleCI is a continuous integration and delivery platform that helps teams automate their software development and deployment processes. While specific details about an affiliate program for CircleCI are not readily available, they offer a partner program called "CircleCI Technology Partner Program" that allows businesses to integrate their solutions with CircleCI and collaborate on joint marketing efforts. Check this https://circleci.com/partners/ for further information on how to join CircleCI partner program.
 
 1. **[SEO.AI](https://www.google.com/search?q=seo.ai+affiliate+program)**: SEO.ai is AI content writer. Their meta tag said "Powerful AI Writer that helps you identify the SEO gaps. Keyword research. Content generation. Optimization. All done by AI and integrated with rank". As of this update, no affiliate program for this tool.
+
+1. **[KaiMail](https://kaimail.net/)**: KaiMail is a developer-first email service for custom domains. It offers email forwarding with ARC and DKIM signing, webhook delivery of inbound email as JSON payloads, and SMTP sending, without needing Google Workspace or Exchange. As of this update, no affiliate program for this tool.
 
 
 ## Contributors 😍
